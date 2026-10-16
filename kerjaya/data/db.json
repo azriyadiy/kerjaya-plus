@@ -1,0 +1,291 @@
+{
+  "users": [
+    {
+      "id": "usr_demo",
+      "email": "demo@kerjaya.plus",
+      "password": "demo123",
+      "name": "Daniel Rahman",
+      "phone": "+673 8123456",
+      "ic": "00-123456",
+      "role": "jobseeker",
+      "skills": [
+        "Excel",
+        "Data analysis",
+        "Teamwork",
+        "Power BI"
+      ],
+      "education": [
+        {
+          "school": "Universiti Brunei Darussalam",
+          "qualification": "Business Technology Management"
+        }
+      ],
+      "experience": [],
+      "savedJobs": [],
+      "token": null
+    },
+    {
+      "id": "usr_emp",
+      "email": "employer@kerjaya.plus",
+      "password": "demo123",
+      "name": "Brunei Digital Services",
+      "company": "Brunei Digital Services",
+      "role": "employer",
+      "skills": [],
+      "education": [],
+      "experience": [],
+      "savedJobs": [],
+      "token": null
+    },
+    {
+      "id": "usr_gov",
+      "email": "gov@kerjaya.plus",
+      "password": "demo123",
+      "name": "Government Analytics",
+      "role": "government",
+      "skills": [],
+      "education": [],
+      "experience": [],
+      "savedJobs": [],
+      "token": null
+    }
+  ],
+  "skills": [
+    "Excel",
+    "Data entry",
+    "Customer service",
+    "Social media",
+    "Content writing",
+    "Canva",
+    "Translation",
+    "Teamwork",
+    "Networking",
+    "Troubleshooting",
+    "Data analysis",
+    "Power BI"
+  ],
+  "jobs": [
+    {
+      "id": "job_1",
+      "title": "Junior Business Systems Analyst",
+      "company": "BIBD",
+      "location": "Bandar Seri Begawan",
+      "salary": "B$1,400–2,000",
+      "type": "fulltime",
+      "sector": "Finance",
+      "match": 92,
+      "skill": "Excel",
+      "skills": [
+        "Excel",
+        "Teamwork",
+        "Data analysis"
+      ],
+      "closing": "2026-09-30",
+      "description": "Support business analysis, reporting and process improvement across internal teams.",
+      "status": "open"
+    },
+    {
+      "id": "job_2",
+      "title": "Data Analytics Associate",
+      "company": "Imagine Brunei",
+      "location": "Beribi",
+      "salary": "B$1,200–1,800",
+      "type": "fulltime",
+      "sector": "Technology",
+      "match": 95,
+      "skill": "Data analysis",
+      "skills": [
+        "Data analysis",
+        "Excel",
+        "Power BI"
+      ],
+      "closing": "2026-09-27",
+      "description": "Prepare dashboards, analyse operational data and communicate findings to stakeholders.",
+      "status": "open"
+    },
+    {
+      "id": "job_3",
+      "title": "Digital Marketing Executive",
+      "company": "Local Media Group",
+      "location": "Gadong",
+      "salary": "B$1,300–1,900",
+      "type": "fulltime",
+      "sector": "Marketing",
+      "match": 91,
+      "skill": "Social media",
+      "skills": [
+        "Social media",
+        "Canva",
+        "Content writing"
+      ],
+      "closing": "2026-09-29",
+      "description": "Plan digital campaigns, produce content and monitor social media performance.",
+      "status": "open"
+    },
+    {
+      "id": "job_4",
+      "title": "IT Support Specialist",
+      "company": "Brunei Tech Services",
+      "location": "Kiulap",
+      "salary": "B$1,300–1,850",
+      "type": "fulltime",
+      "sector": "Technology",
+      "match": 86,
+      "skill": "Troubleshooting",
+      "skills": [
+        "Troubleshooting",
+        "Teamwork",
+        "Customer service"
+      ],
+      "closing": "2026-10-06",
+      "description": "Provide first-line technical support and troubleshoot workplace technology issues.",
+      "status": "open"
+    },
+    {
+      "id": "job_5",
+      "title": "Operations Coordinator",
+      "company": "Darussalam Enterprise",
+      "location": "Anggerek Desa",
+      "salary": "B$1,500–2,100",
+      "type": "fulltime",
+      "sector": "Operations",
+      "match": 88,
+      "skill": "Teamwork",
+      "skills": [
+        "Teamwork",
+        "Excel",
+        "Networking"
+      ],
+      "closing": "2026-10-03",
+      "description": "Coordinate operational activities, reports and stakeholder communications.",
+      "status": "open"
+    },
+    {
+      "id": "job_6",
+      "title": "Content Creator",
+      "company": "Brunei Creative Hub",
+      "location": "Gadong",
+      "salary": "B$900–1,400",
+      "type": "parttime",
+      "sector": "Marketing",
+      "match": 82,
+      "skill": "Canva",
+      "skills": [
+        "Canva",
+        "Content writing",
+        "Social media"
+      ],
+      "closing": "2026-10-08",
+      "description": "Create digital content and assist with social media campaigns.",
+      "status": "open"
+    },
+    {
+      "id": "job_7",
+      "title": "Excel Dashboard Micro-Project",
+      "company": "SME Digitalisation Project",
+      "location": "Remote / Brunei",
+      "salary": "B$250 project",
+      "type": "gig",
+      "sector": "Technology",
+      "match": 90,
+      "skill": "Excel",
+      "skills": [
+        "Excel",
+        "Data analysis"
+      ],
+      "closing": "2026-10-01",
+      "description": "Build a practical reporting dashboard for a small business and receive verified project experience.",
+      "status": "open"
+    },
+    {
+      "id": "job_8",
+      "title": "Business Technology Intern",
+      "company": "Prime Services",
+      "location": "Kiarong",
+      "salary": "B$600–800",
+      "type": "internship",
+      "sector": "Operations",
+      "match": 89,
+      "skill": "Excel",
+      "skills": [
+        "Excel",
+        "Teamwork",
+        "Data entry"
+      ],
+      "closing": "2026-10-12",
+      "description": "Assist with business process documentation, data entry and reporting.",
+      "status": "open"
+    }
+  ],
+  "courses": [
+    {
+      "id": "course_1",
+      "name": "Microsoft Excel Associate Prep",
+      "provider": "IBTE / Digital Skills Partner",
+      "skill": "Excel",
+      "mode": "Hybrid",
+      "location": "Brunei / Online",
+      "start": "2026-10-05",
+      "schedule": "Sat–Sun, 9:00–16:00",
+      "price": 750,
+      "discounted": 150,
+      "subsidy": "80% subsidy"
+    },
+    {
+      "id": "course_2",
+      "name": "Power BI Data Analyst",
+      "provider": "Scientia Labs / AITI",
+      "skill": "Power BI",
+      "mode": "Hybrid",
+      "location": "Beribi / Online",
+      "start": "2026-10-12",
+      "schedule": "Sat–Sun, 9:00–16:00",
+      "price": 750,
+      "discounted": 150,
+      "subsidy": "80% subsidy"
+    },
+    {
+      "id": "course_3",
+      "name": "Business Data Storytelling Certificate",
+      "provider": "Digital Academy Brunei",
+      "skill": "Data analysis",
+      "mode": "Online",
+      "location": "Online",
+      "start": "2026-10-19",
+      "schedule": "Evenings, 19:00–21:00",
+      "price": 500,
+      "discounted": 100,
+      "subsidy": "80% subsidy"
+    },
+    {
+      "id": "course_4",
+      "name": "Customer Service Essentials",
+      "provider": "Brunei Training Centre",
+      "skill": "Customer service",
+      "mode": "In-person",
+      "location": "Gadong",
+      "start": "2026-10-26",
+      "schedule": "Sat, 9:00–16:00",
+      "price": 400,
+      "discounted": 80,
+      "subsidy": "80% subsidy"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app_demo1",
+      "userId": "usr_demo",
+      "jobId": "job_1",
+      "status": "Shortlisted",
+      "appliedDate": "2026-09-18"
+    },
+    {
+      "id": "app_demo2",
+      "userId": "usr_demo",
+      "jobId": "job_7",
+      "status": "Interview",
+      "appliedDate": "2026-09-20"
+    }
+  ],
+  "enrolments": []
+}
